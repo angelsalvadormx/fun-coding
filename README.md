@@ -1,4 +1,4 @@
-# fun-coding
+# Fun Coding 🎉
 Coding games to test and build your programming skills!
 
 ### Game list
@@ -9,10 +9,11 @@ Coding games to test and build your programming skills!
 ### How to join us
 Simple bla bla ... [help](https://github.com/firstcontributions/first-contributions)
 
-### Screenshots
-![alt text](https://github.com/lechugalf)
-
 ### Collaborators
 - [Alfonso Lechuga Illingworth](https://github.com/lechugalf)
 - Jose Luis Peregrina
 - add your name here!
+
+### Screenshots
+<img src="https://github.com/lechugalf/fun-coding/blob/master/screenshots/tetris1.png?raw=true" alt="tetris init" width="500px">
+
