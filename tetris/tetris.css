@@ -1,0 +1,37 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: auto auto;
+}
+
+#gridMap {
+    display: grid;
+    background-color: #043f6e;
+}
+
+.object {
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: #2695a3 2px -2px 0px;
+    margin: 2px;
+}
+
+.static {
+    background-color: rgb(167, 35, 63);
+    border-radius: 5px;
+    box-shadow: #4c1b25 2px -2px 0px;
+    margin: 2px;
+}
+
+.bound {
+    background-color: #0d335a;
+}
+
+.top {
+    margin-right: 3px;
+}
