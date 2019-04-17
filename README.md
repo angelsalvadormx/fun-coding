@@ -11,6 +11,7 @@ Simple bla bla ... [help](https://github.com/firstcontributions/first-contributi
 
 ### Collaborators
 - [Alfonso Lechuga Illingworth](https://github.com/lechugalf)
+- [Angel Gabriel Salvador C.](https://github.com/AngelSalvador98)
 - Jose Luis Peregrina
 - add your name here!
 
